@@ -269,12 +269,13 @@ const LoginSuccess = () => {
                   <li className="more"></li>
                 </ul>
               </li>
+             
               <li>
                 <a href="#">CBSE RESOURCES</a>
                 <i className="bx bxs-chevron-down js-arrow arrow "></i>
                 <ul className="js-sub-menu sub-menu">
                   <li>
-                    <a href="https://cbseacademic.nic.in/curriculum_2023.html">
+                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
                       CURRICULUM 2022-23
                     </a>
                   </li>
@@ -380,6 +381,56 @@ const LoginSuccess = () => {
                   </div>
                 </ul>
               </li>
+
+               
+              <li>
+              <a href="#">TIME TABLE</a>
+                <i className="bx bxs-chevron-down js-arrow arrow "></i>
+                <ul className="js-sub-menu sub-menu">
+                  <li>
+                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                      Class 5
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                      Class 6
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                      Class 7
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                      Class 8
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                     Class 9
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                     Class 10
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                     Class 11
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                      Class 12
+                    </a>
+                  </li>
+                  </ul>
+              </li>
+
+
               <li>
                 <a href="mailto:davpskaithal@gmail.com">CONTACT US</a>
               </li>
