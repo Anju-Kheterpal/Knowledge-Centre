@@ -275,7 +275,7 @@ const LoginSuccess = () => {
                 <i className="bx bxs-chevron-down js-arrow arrow "></i>
                 <ul className="js-sub-menu sub-menu">
                   <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                    <a href="https://cbseacademic.nic.in/curriculum_2023.html">
                       CURRICULUM 2022-23
                     </a>
                   </li>
