@@ -55,6 +55,20 @@ const LoginSuccess = () => {
                     </div>
                   </div>
                   <div className="dropdown">
+                  <li>
+                      <a className="dropbtn "href="https://drive.google.com/drive/folders/1OAK_CCrIvO1yOZpVImJkjo8BgJeHoAa8?usp=drive_link">
+                        DAVCAE Training Reports
+                      </a>
+                    </li>
+                  </div>
+                  <div className="dropdown">
+                  <li>
+                      <a className="dropbtn "href="https://drive.google.com/drive/folders/1bd0AAyM2Zf65E_dHiK2Rz2OwzjYGmiEe?usp=drive_link">
+                        Kaithal Zone CBP
+                      </a>
+                    </li>
+                  </div>
+                  <div className="dropdown">
                     <li>
                       <a className="dropbtn " href="#">
                         Sample Papers
