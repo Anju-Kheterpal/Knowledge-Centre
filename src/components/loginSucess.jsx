@@ -388,42 +388,42 @@ const LoginSuccess = () => {
                 <i className="bx bxs-chevron-down js-arrow arrow "></i>
                 <ul className="js-sub-menu sub-menu">
                   <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                    <a href="https://drive.google.com/drive/folders/1IQIahl1qfEKNagcq2U1jabXi0HNGVqDt?usp=sharing">
                       Class 5
                     </a>
                   </li>
                   <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                    <a href="https://drive.google.com/drive/folders/1dJNlgm1j1xloHsVMewWuHNA-VLfqqm0-?usp=sharing">
                       Class 6
                     </a>
                   </li>
                   <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                    <a href="https://drive.google.com/drive/folders/1olRdeX393AQBw6rDq7xoDkid6N6_0F32?usp=sharing">
                       Class 7
                     </a>
                   </li>
                   <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                    <a href="https://drive.google.com/drive/folders/1zzUeIB03q_qINNe91huBMIMQ9wmFJ7Vl?usp=sharing">
                       Class 8
                     </a>
                   </li>
                   <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                    <a href="https://drive.google.com/drive/folders/1BXzmei_TFJSdgpKo_9Bg0KVTyJyctw_P?usp=sharing">
                      Class 9
                     </a>
                   </li>
                   <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                    <a href="https://drive.google.com/drive/folders/11BG9o3vn4waJR4gj1prjBS5EjwpzFlEx?usp=sharing">
                      Class 10
                     </a>
                   </li>
                   <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                    <a href="https://drive.google.com/drive/folders/1Dd8OQmuxB66WYRcPvLJ87Qhm05O1bclB?usp=drive_link">
                      Class 11
                     </a>
                   </li>
                   <li>
-                    <a href="https://docs.google.com/spreadsheets/d/1mDbE7eCLd-EBTduN4JgaxHuEXZ7LTf2D/edit?usp=sharing&ouid=102379938059633821850&rtpof=true&sd=true">
+                    <a href="https://drive.google.com/drive/folders/1iRlfO1fivefQEdJRjGVwvvf7BYc1FW5P?usp=sharing">
                       Class 12
                     </a>
                   </li>
