@@ -86,13 +86,13 @@ const LoginSuccess = () => {
                         Class XI Science
                       </a>
                     </div>
-                    <div className="dropdown">
+{/*                     <div className="dropdown"> */}
                   {/* <li>
                       <a className="dropbtn "href="https://drive.google.com/drive/folders/1XunHKS0-h4bbqjWBu7mw1YyR9FOnbSPl?usp=sharing">
                         Pedagogical Plan
                       </a>
                     </li> */}
-                  </div>
+{/*                   </div> */}
                   </div>
                 </ul>
               </li>
