@@ -54,7 +54,7 @@ const OnlineLibrary = () => {
             </tr>
             <tr style={{height : "100px"}}>
               <th>
-                <a href="http://cbseacademic.nic.in/web_material/Manuals/Cyber_Safety_Manual.pdf">
+                <a href="https://drive.google.com/file/d/1d9gi9xLaswA1sMjeDeKNxvhtzX1yTe8E/view?usp=sharing">
                   {" "}
                   Cyber Safety
                 </a>
