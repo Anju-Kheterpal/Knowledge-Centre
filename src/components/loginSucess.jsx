@@ -61,6 +61,7 @@ const LoginSuccess = () => {
                       </a>
                     </li>
                   </div>
+                 
                   <div className="dropdown">
                   <li>
                       <a className="dropbtn "href="https://drive.google.com/drive/folders/1bd0AAyM2Zf65E_dHiK2Rz2OwzjYGmiEe?usp=drive_link">
@@ -85,12 +86,19 @@ const LoginSuccess = () => {
                         Class XI Science
                       </a>
                     </div>
+                    <div className="dropdown">
+                  {/* <li>
+                      <a className="dropbtn "href="https://drive.google.com/drive/folders/1XunHKS0-h4bbqjWBu7mw1YyR9FOnbSPl?usp=sharing">
+                        Pedagogical Plan
+                      </a>
+                    </li> */}
+                  </div>
                   </div>
                 </ul>
               </li>
 
               <li>
-                <a href={"#"}>TEACHER'S RESOURCE</a>
+                <a href={"#"}>LESSON PLAN</a>
                 <i className="bx bxs-chevron-down htmlcss-arrow arrow  "></i>
                 <ul className="htmlCss-sub-menu sub-menu">
                   <div className="dropdown">
@@ -254,22 +262,22 @@ const LoginSuccess = () => {
                     </div>
                   </div>
                   <div className="dropdown">
-                    <a className="dropbtn " style={{ paddingLeft: "20px" }}>
+                    {/* <a className="dropbtn " style={{ paddingLeft: "20px" }}>
                       Class 11
                       <i
                         style={{ transform: "rotate(-90deg)" }}
                         className="fa-regular fa-circle-caret-down"
                       ></i>
                     </a>
-                    <div className="dropdown-content">
+                    {/* <div className="dropdown-content">
                       <li>
                         <a href="#">XI Commerce</a>
                       </li>
                       <li>
                         <a href="#">XI Science</a>
                       </li>
-                    </div>
-                  </div>
+                    </div> */}
+                  {/* </div>
                   <div className="dropdown">
                     <li>
                       <a className="dropbtn ">Class 12</a>
@@ -277,7 +285,13 @@ const LoginSuccess = () => {
                     <div className="dropdown-content">
                       <a href="#">XII Commerce</a>
                       <a href="#">XII Science</a>
-                    </div>
+                    </div>  */}
+                    
+                    <li>
+                    <a href="https://drive.google.com/drive/folders/1-kl4umkLrTRwu06vIw96Sccwcec_Nda6">
+                      CLASS 11 and 12
+                    </a>
+                  </li>
                   </div>
 
                   <li className="more"></li>
@@ -444,10 +458,21 @@ const LoginSuccess = () => {
                   </ul>
               </li>
 
-
               <li>
-                <a href="mailto:davpskaithal@gmail.com">CONTACT US</a>
+              <a href="#">TEACHER's RESOURCES</a>
+                <i className="bx bxs-chevron-down js-arrow arrow "></i>
+                <ul className="js-sub-menu sub-menu">
+                  <li>
+                    <a href="https://drive.google.com/drive/folders/1XunHKS0-h4bbqjWBu7mw1YyR9FOnbSPl?usp=sharing">
+                      Pedagogical Plan
+                    </a>
+                  </li>
+                  </ul>
               </li>
+
+              {/* <li>
+                <a href="mailto:davpskaithal@gmail.com">CONTACT US</a>
+              </li> */}
             </ul>
           </div>
           <div className="search-box">
