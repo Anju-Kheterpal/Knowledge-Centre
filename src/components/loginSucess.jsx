@@ -304,7 +304,7 @@ const LoginSuccess = () => {
                 <ul className="js-sub-menu sub-menu">
                   <li>
                     <a href="https://cbseacademic.nic.in//curriculum_2024.html">
-                      CURRICULUM 2023-24
+                      CURRICULUM
                     </a>
                   </li>
 
