@@ -303,7 +303,7 @@ const LoginSuccess = () => {
                 <i className="bx bxs-chevron-down js-arrow arrow "></i>
                 <ul className="js-sub-menu sub-menu">
                   <li>
-                    <a href="https://cbseacademic.nic.in//curriculum_2024.html">
+                    <a href="https://cbseacademic.nic.in/curriculum_2026.html">
                       CURRICULUM
                     </a>
                   </li>
@@ -313,6 +313,15 @@ const LoginSuccess = () => {
                       <a className="dropbtn ">Sample Papers (Class 10)</a>
                     </li>
                     <div className="dropdown-content">
+                      <a href="https://cbseacademic.nic.in/SQP_CLASSX_2025-26.html">
+                        SQP 2025-26
+                      </a>
+                      <a href="https://cbseacademic.nic.in/SQP_CLASSX_2024-25.html">
+                        SQP 2024-25
+                      </a>
+                      <a href="https://cbseacademic.nic.in/SQP_CLASSX_2023-24.html">
+                        SQP 2023-24
+                      </a>
                       <a href="https://cbseacademic.nic.in/SQP_CLASSX_2022-23.html">
                         SQP 2022-23
                       </a>
@@ -344,6 +353,15 @@ const LoginSuccess = () => {
                       <a className="dropbtn ">Sample Papers (Class 12)</a>
                     </li>
                     <div className="dropdown-content">
+                      <a href="https://cbseacademic.nic.in/SQP_CLASSXII_2025-26.html">
+                        SQP 2025-26
+                      </a>
+                      <a href="https://cbseacademic.nic.in/SQP_CLASSXII_2024-25.html">
+                        SQP 2024-25
+                      </a>
+                      <a href="https://cbseacademic.nic.in/SQP_CLASSXII_2023-24.html">
+                        SQP 2023-24
+                      </a>
                       <a href="https://cbseacademic.nic.in/SQP_CLASSXII_2022-23.html">
                         SQP 2022-23
                       </a>
@@ -510,7 +528,7 @@ const LoginSuccess = () => {
             }}
           >
             <font size="7" align="center">
-              KNOWLEDGE
+              RESOURCE
             </font>
           </h3>
           <h3
