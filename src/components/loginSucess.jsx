@@ -13,7 +13,7 @@ const LoginSuccess = () => {
           </div>
           <div className="nav-links">
             <div className="sidebar-logo">
-              <span className="logo-name">KNOWLEDGE CENTRE</span>
+              <span className="logo-name">RESOURCE CENTRE</span>
               <i className="bx bx-x"></i>
             </div>
             <ul className="links">
