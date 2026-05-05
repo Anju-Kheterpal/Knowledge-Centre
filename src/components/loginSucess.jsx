@@ -9,7 +9,7 @@ const LoginSuccess = () => {
         <div className="navbar">
           <i className="bx bx-menu"></i>
           <div className="logo">
-            <a href="#">Knowledge Centre</a>
+            <a href="#Resource Centre">Resource Centre</a>
           </div>
           <div className="nav-links">
             <div className="sidebar-logo">
@@ -18,7 +18,7 @@ const LoginSuccess = () => {
             </div>
             <ul className="links">
               <li>
-                <a href="#">DAVCAE</a>
+                <a href="#DAVCAE">DAVCAE</a>
                 <i className="bx bxs-chevron-down htmlcss-arrow arrow  "></i>
                 <ul className="htmlCss-sub-menu sub-menu">
                   <div className="dropdown">
@@ -154,7 +154,7 @@ const LoginSuccess = () => {
                         Social Science
                       </a>
                       <a href="https://drive.google.com/drive/folders/1fooljRN6eG17opoLN3Iou2pwN_PzNm_C?usp=share_link">
-                        Sanskrit{" "}
+                        Sanskrit
                       </a>
                       <a href="https://drive.google.com/drive/folders/1gN_jiOWnzPWF8DbZ6Redm8GzUjj7cfax?usp=share_link">
                         Punjabi
@@ -210,7 +210,7 @@ const LoginSuccess = () => {
                         Social Science
                       </a>
                       <a href="https://drive.google.com/drive/folders/1uLoVGXgm8sSPRF6fNJnCO1Jm1RnzFusO?usp=share_link">
-                        Sanskrit{" "}
+                        Sanskrit
                       </a>
                       <a href="https://drive.google.com/drive/folders/1OTZg4aAHrjX4ZrvAMp2_-WKndbLeVZ1S?usp=share_link">
                         Punjabi
@@ -303,9 +303,12 @@ const LoginSuccess = () => {
                 <i className="bx bxs-chevron-down js-arrow arrow "></i>
                 <ul className="js-sub-menu sub-menu">
                   <li>
-                    <a href="https://cbseacademic.nic.in/curriculum_2026.html">
+                    <a href="https://cbseacademic.nic.in/curriculum_2027.html">
                       CURRICULUM
                     </a>
+                  </li>
+                  <li>
+                    <a href="https://cbseacademic.nic.in/ct-ai.html">CT_AI</a>
                   </li>
 
                   <div className="dropdown">
